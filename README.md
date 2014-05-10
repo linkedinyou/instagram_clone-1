@@ -12,8 +12,6 @@ Reimplementing Instagram's functionality.
 
 The task was led by [@Alex Peattie](http://www.github.com/alexpeattie)
 
-#### Goals
-
 
 #### Technologies
 
