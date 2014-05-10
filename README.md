@@ -15,4 +15,6 @@ The task was led by [@Alex Peattie](http://www.github.com/alexpeattie)
 #### Goals
 
 
-#### To do
+#### Technologies
+
+Web Sockets, Twitter and Facebook omniauth, Stripe 
